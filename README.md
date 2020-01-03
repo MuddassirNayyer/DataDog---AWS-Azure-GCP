@@ -78,4 +78,4 @@ DataDog EU Site: https://gcp-intake.logs.datadoghq.eu/v1/input/<Data Dog API Key
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ### DataDog Dashboard for Azure VM
-<img src="https://github.com/MuddassirNayyer/DataDog---AWS-Azure-GCP/blob/master/Images/Azure%20-%20DataDog.PNG" alt="drawing" width="600"/>
+<img src="https://github.com/MuddassirNayyer/DataDog---AWS-Azure-GCP/blob/master/Images/Azure%20-%20DataDog.PNG" alt="drawing" width="750"/>
