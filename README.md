@@ -10,6 +10,8 @@ DD_AGENT_MAJOR_VERSION=7 DD_API_KEY={Your DataDog API KEY} bash -c "$(curl -L ht
 
 #### Note: This command works seamlessly for AWS but some times causes issue for Azure and GCP, So you may follow another method to install datadog agent in for Azure and GCP
 
+#### To check all VMs hosted DataDog agent, Goto [DataDogs Dashboards](https://app.datadoghq.com/dashboard/lists) -> All Hosts
+
 ## Azure Data dog Agent Setup
 1. In the Azure portal, navigate to your VM -> Settings -> Extensions -> Add and select Datadog Agent.
 2. Click Create, enter your Datadog [API key](https://app.datadoghq.com/account/settings#api), and click OK.
