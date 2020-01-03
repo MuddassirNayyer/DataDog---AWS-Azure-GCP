@@ -19,8 +19,8 @@ DD_AGENT_MAJOR_VERSION=7 DD_API_KEY={Your DataDog API KEY} bash -c "$(curl -L ht
 
 2. Setup the Pub/Sub to forward logs to Datadog  
 Note: Use this as EndPoint while creating the subscription  
-If VM is located in US: https://gcp-intake.logs.datadoghq.com/v1/input/<Data Dog API Key>/  
-If VM is located in EU: https://gcp-intake.logs.datadoghq.eu/v1/input/<Data Dog API Key>/  
+DataDog US Site: https://gcp-intake.logs.datadoghq.com/v1/input/<Data Dog API Key>/  
+DataDog EU Site: https://gcp-intake.logs.datadoghq.eu/v1/input/<Data Dog API Key>/  
 
 3. Configure exports from Stackdriver logs to the Pub/Sub  
 3.1. Go to the [Stackdriver page](https://console.cloud.google.com/logs/viewer) and filter the logs that need to be exported  
