@@ -5,7 +5,7 @@
 #### To get your DataDog API Key [Click Here](https://app.datadoghq.com/account/settings#api)
 
 <pre><code>
-DD_AGENT_MAJOR_VERSION=7 DD_API_KEY=<Your DataDog API KEY> bash -c "$(curl -L https://raw.githubusercontent.com/DataDog/datadog-agent/master/cmd/agent/install_script.sh)"
+DD_AGENT_MAJOR_VERSION=7 DD_API_KEY={Your DataDog API KEY} bash -c "$(curl -L https://raw.githubusercontent.com/DataDog/datadog-agent/master/cmd/agent/install_script.sh)"
 </code></pre>
 
 #### Note: This command works seamlessly for AWS but some times causes issue for Azure and GCP, So you may follow other method to install datadog agent in for Azure and GCP
