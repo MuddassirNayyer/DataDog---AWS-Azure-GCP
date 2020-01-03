@@ -73,3 +73,9 @@ DataDog EU Site: https://gcp-intake.logs.datadoghq.eu/v1/input/<Data Dog API Key
 4.3. Choose Pub/Sub as the destination and select the Pub/Sub that was created for that purpose  
 
 <img src="https://github.com/MuddassirNayyer/DataDog---AWS-Azure-GCP/blob/master/Images/GCP%20-%20DataDog%2011.PNG" alt="drawing" width="600"/>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+### DataDog Dashboard for Azure VM
+<img src="https://github.com/MuddassirNayyer/DataDog---AWS-Azure-GCP/blob/master/Images/Azure%20-%20DataDog.PNG" alt="drawing" width="600"/>
